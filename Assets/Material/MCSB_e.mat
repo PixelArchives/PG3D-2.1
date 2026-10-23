@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MCSB_e
+  m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FrontTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 80d1add457d15544fa16fa9d66668827, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BackTex
+      second:
+        m_Texture: {fileID: 2800000, guid: b8934ad6f0e84c144a792b874f674ac1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LeftTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 48e0320c226257a40ad163c6aa12cf97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RightTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 97f1a212fc93ba0428c679dd93e1d106, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _UpTex
+      second:
+        m_Texture: {fileID: 2800000, guid: eefc3ba49bb4c704e87a7665ea17e15d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DownTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 5216ab73fdfaab745895d4bec52d02dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: {}
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Tint
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
